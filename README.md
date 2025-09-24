@@ -2,5 +2,5 @@ Learning about numerical methods for seismic modeling. Using the book [Computati
 
 Some highlights:
 
-- [Trapped waves in a fault zone - 2D finite-difference simulation](blob/main/4.32_FD_2D_5pt_faultzone.ipynb)
-- [Synthetic seismograms of a general layered model in 1D](blob/main/2.26_Greens_1D_layers.ipynb)
+- [Trapped waves in a fault zone - 2D finite-difference simulation](4.32_FD_2D_5pt_faultzone.ipynb)
+- [Synthetic seismograms of a general layered model in 1D](2.26_Greens_1D_layers.ipynb)
